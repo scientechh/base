@@ -21,7 +21,7 @@ let FilterObj = {
             Img: "gd.png",
             Id: "qa",
             Color: "gd-red",
-            Title: "Գրաֆիկ Դիազայն"
+            Title: "Գրաֆիկ Դիզայն"
         },
         webka: {
             Img: "webka.png",
