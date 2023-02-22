@@ -19,7 +19,7 @@ let FilterObj = {
         },
         gd: {
             Img: "gd.png",
-            Id: "qa",
+            Id: "gd",
             Color: "gd-red",
             Title: "Գրաֆիկ Դիզայն"
         },
