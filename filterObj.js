@@ -7,7 +7,7 @@ let FilterObj = {
         },
         uxui: {
             Img: "ui-ux.png",
-            Id: "ux",
+            Id: "uxui",
             Color: "ux-purple",
             Title: "UI/UX"
         },
